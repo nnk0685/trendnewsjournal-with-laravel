@@ -1,0 +1,1 @@
+# trendnewsjournal-with-laravel
